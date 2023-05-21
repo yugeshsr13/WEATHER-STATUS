@@ -65,8 +65,7 @@ Feel free to modify and enhance the script according to your needs.
 
 ## Troubleshooting
 
-If you encounter any issues or have any questions, please feel free to [create an issue](https://github.com/your-repo/your-project/issues) in the project repository.
+If you encounter any issues or have any questions, please feel free to [create an issue](https://www.linkedin.com/in/yugesh-sundararam-r-530046195/) in the project repository.
 
 ---
 
-That's an elaborate structure for a README file, including explanations of the code and the steps involved. You can further customize it by adding additional sections or providing more details about the functionality and usage of your project. Make sure to replace the placeholders with actual information related to your project.
