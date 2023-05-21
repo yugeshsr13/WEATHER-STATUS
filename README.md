@@ -65,7 +65,7 @@ Feel free to modify and enhance the script according to your needs.
 
 ## Troubleshooting
 
-If you encounter any issues or have any questions, please feel free to [create an issue](https://www.linkedin.com/in/yugesh-sundararam-r-530046195/) in the project repository.
+If you encounter any issues or have any questions, please feel free to [contact](https://www.linkedin.com/in/yugesh-sundararam-r-530046195/) in Linkedin.
 
 ---
 
