@@ -39,7 +39,7 @@ To use the Weather Status Project, follow these steps:
 1. Run the script by executing the following command in your terminal or command prompt:
 
    ```bash
-   python weather.py
+   python WEATHER_API_APP.py
    ```
 
 2. Enter the name of the city for which you want to retrieve the weather information when prompted.
